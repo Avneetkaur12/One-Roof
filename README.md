@@ -5,7 +5,7 @@
 
 **One Roof Website** is a dynamic website created for users to book/rent co-working spaces, meeting rooms and office spaces by selecting city, price, and amenities. It has features designed to review past bookings and rental history.
 
-## Feature
+## Features
 * Built a platform for booking/renting co-working and office spaces.
 * Implemented filters by city, price, and amenities.
 * Designed features to review past bookings and rental history.
